@@ -5,7 +5,9 @@
 
 int main(int argc, char *argv[]){
 
-  if(chdir(argv[1])<0)
+  if(argc!=2) printf("Needs 2 argumenrts\n");
+  
+  else if(chdir(argv[1])<0)
   {
     printf(1,"Failed to change directory\n");
   }
