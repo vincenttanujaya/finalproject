@@ -14,7 +14,7 @@ main(int argc, char *argv[])
 
   for(i = 1; i < argc; i++){
     if(unlink(argv[i]) < 0){
-      printf(2, "rm: %s failed to delete\n", argv[i]);
+      printf(2, "rm: %s gagal menghapus\n", argv[i]);
       break;
     }
   }
