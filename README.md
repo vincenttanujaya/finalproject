@@ -4,7 +4,7 @@ cp :\n
   cp *
   cp -R
 mv : 
-  mv
+  mv ( FIX )
   mv *
 ls
 touch ( FIX )
