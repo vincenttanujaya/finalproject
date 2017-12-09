@@ -11,7 +11,7 @@ touch ( FIX )
 cd ( FIX )
 rm
 
-VIM	
+VIM	( FIX )
 SPLIT	
 WATCH
 ```
