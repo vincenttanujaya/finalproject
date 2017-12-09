@@ -1,4 +1,4 @@
-cp : 
+cp :\n 
   cp ( FIX )
   cp *
   cp -R
