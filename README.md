@@ -1,3 +1,4 @@
+```
 cp :\n 
   cp ( FIX )
   cp *
@@ -13,3 +14,4 @@ rm
 VIM	
 SPLIT	
 WATCH
+```
