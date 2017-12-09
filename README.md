@@ -6,7 +6,7 @@ cp :\n
 mv : 
   mv ( FIX )
   mv *
-ls
+ls ( FIX )
 touch ( FIX )
 cd ( FIX )
 rm
